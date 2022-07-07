@@ -1,4 +1,4 @@
-# Livro introdutório sobre Álgebra
+# Introdução a Álgebra Linear
 
 ## Matrizes
 
